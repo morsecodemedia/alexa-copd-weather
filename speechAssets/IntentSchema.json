@@ -1,0 +1,58 @@
+{
+	"languageModel": {
+	  "intents": [
+		{
+		  "name": "AboutIntent",
+		  "samples": [],
+		  "slots": []
+		},
+		{
+		  "name": "AMAZON.CancelIntent",
+		  "samples": [
+			"cancel"
+		  ]
+		},
+		{
+		  "name": "AMAZON.HelpIntent",
+		  "samples": [
+			"help",
+			"i need help",
+			"what do i do"
+		  ]
+		},
+		{
+		  "name": "AMAZON.NoIntent",
+		  "samples": [
+			"no",
+			"no thank you",
+			"nope"
+		  ]
+		},
+		{
+		  "name": "AMAZON.StopIntent",
+		  "samples": [
+			"stop"
+		  ]
+		},
+		{
+		  "name": "AMAZON.YesIntent",
+		  "samples": []
+		},
+		{
+		  "name": "GetForecast",
+		  "samples": [
+			"What is my COPD weather forecast",
+			"What's my COPD weather forecast",
+			"What is my forecast",
+			"What's my forecast",
+			"What is the weather",
+			"What's the weather",
+			"What is the weather today",
+			"What's the weather today"
+		  ],
+		  "slots": []
+		}
+	  ],
+	  "invocationName": "c. o. p. d. weather"
+	}
+  }
